@@ -1,0 +1,23 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Seb's home
+  summary: Charming room in Montmartre, really beautiful
+  city: Paris, France
+  wifi: true
+  flat's rating: 9
+  number of guests: 5
+romain:
+  owner_name: Romain Paillard
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  flat's rating: 7
+  number of guests: 3
+
+
+# (flat's rating, pictures of different rooms, maximum number of guests, etc..).
